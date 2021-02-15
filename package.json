@@ -1,0 +1,15 @@
+{
+  "name": "luiz_template_",
+  "version": "1.0.0",
+  "description": "my template to any github project ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "browser-sync start --server --files '**/*.css, **/*.html, **/*.js, !node_modules/**/*' --directory --port 777 --browser 'Firefox Developer Edition'"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "browser-sync": "^2.26.13"
+  }
+}

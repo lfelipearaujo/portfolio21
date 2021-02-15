@@ -1,0 +1,275 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bac",
+				"background-size\tproperty"
+			],
+			[
+				"back",
+				"background-image\tproperty"
+			],
+			[
+				"padd",
+				"padding-bottom\tproperty"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"marg",
+				"margin-top\tproperty"
+			],
+			[
+				"box",
+				"box-sizing\tproperty"
+			],
+			[
+				"tra",
+				"transition\tproperty"
+			],
+			[
+				"inl",
+				"inline-block\tdisplay"
+			],
+			[
+				"alig",
+				"text-align\tproperty"
+			],
+			[
+				"in",
+				"inline-block\tdisplay"
+			],
+			[
+				"backgrouND-C",
+				"background-color\tproperty"
+			],
+			[
+				"size",
+				"background-size\tproperty"
+			],
+			[
+				"inlin",
+				"inline-block\tdisplay"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"backg",
+				"background-color\tproperty"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"met",
+				"meta\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"material theme: ac",
+				"Material Theme: Activate theme"
+			],
+			[
+				"Package Control: Install Package",
+				"Package Control: Install Package"
+			],
+			[
+				"package control",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 182.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Applications/MAMP/htdocs/JQuery/URL Amigavel/projeto_05/index.php",
+		"/Users/luizfelipe/Downloads/asd/projeto_webrtc_curso/index.php",
+		"/Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/System/iOSSupport/System/Library/Frameworks/JavaScriptCore.framework/Versions/A/Headers/JSVirtualMachine.h",
+		"/Users/luizfelipe/Downloads/sitemap.xml",
+		"/Users/luizfelipe/Documents/2020/Courses 2020/DANKI Code/Web Design Express /webdesign_express_files/modulo_09/projeto_web_design/css/style.css",
+		"/Users/luizfelipe/Documents/2020/Courses 2020/DANKI Code/Web Design Express /Practice/web_design_express_final_project_01/index.html",
+		"/Users/luizfelipe/Documents/2020/Courses 2020/DANKI Code/Web Design Express /Practice/web_design_express_final_project_01/css/style.css",
+		"/Users/luizfelipe/Documents/2020/Courses 2020/DANKI Code/Web Design Express /Practice/MOD 6/project_contact_form_RD_.html",
+		"/Users/luizfelipe/Documents/2020/Courses 2020/DANKI Code/Web Design Express /Practice/MOD 6/resposive_design.html",
+		"/Users/luizfelipe/Downloads/iconfinder_bolt_118727 (1).svg",
+		"/Users/luizfelipe/Documents/2020/Courses 2020/DANKI Code/Web Design Express /Practice/MOD 5 /Styles/style.css",
+		"/Users/luizfelipe/Documents/2020/Courses 2020/DANKI Code/Web Design Express /Practice/MOD 5 /Styles/study_style.css",
+		"/Users/luizfelipe/Documents/2020/Courses 2020/DANKI Code/Web Design Express /Practice/MOD 5 /Styles/study_positions.html",
+		"/Users/luizfelipe/Documents/2020/Courses 2020/DANKI Code/Web Design Express /Practice/MOD 5 /solutions.html",
+		"/Users/luizfelipe/Documents/2020/Courses 2020/DANKI Code/Web Design Express /Practice/MOD 5 /supporters2.html",
+		"/Users/luizfelipe/Documents/2020/Courses 2020/DANKI Code/Web Design Express /Practice/MOD 5 /header.html",
+		"/Users/luizfelipe/Documents/2020/Courses 2020/DANKI Code/Web Design Express /Practice/MOD 5 /index_7-15.html",
+		"/Users/luizfelipe/Documents/2020/Courses 2020/DANKI Code/Web Design Express /Practice/supporters2.html",
+		"/Users/luizfelipe/Documents/2020/Courses 2020/DANKI Code/Web Design Express /Practice/MOD 4 /supporters.html",
+		"/Users/luizfelipe/Documents/2020/Courses 2020/DANKI Code/Web Design Express /Practice/MOD 4 /index_7-15.html",
+		"/Users/luizfelipe/Documents/Courses 2020/DANKI Code/Web Design Express /Practice/MOD 4 /index_9.html",
+		"/Users/luizfelipe/Documents/Courses 2020/DANKI Code/Web Design Express /Practice/MOD 4 /index_3_4.html",
+		"/Users/luizfelipe/Documents/Courses 2020/DANKI Code/Web Design Express /Practice/L1/index.html"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": true,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 101.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 250.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

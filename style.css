@@ -769,4 +769,70 @@ nav.nav__mobile-nav ul li {
     grid-gap: 2rem;
     padding: 0px;
   }
+  .s1__flex {
+    margin-bottom: 120px;
+  }
+}
+@media screen and (max-width: 520px) {
+  #sec_what_do {
+    height: 120vh;
+  }
+  .s3__grid {
+    height: 205vh;
+  }
+  .s4__web {
+    height: 170vh;
+  }
+  .s1__flex {
+    margin-bottom: 300px;
+  }
+  .header__flex-topinfo {
+    text-align: center;
+  }
+
+  .svg__kanban img {
+    scale: 1.9;
+  }
+  .what__do_cards {
+    flex-direction: column;
+  }
+  .sec5__contactForm {
+    width: 400px;
+  }
+  .sec5__contactForm form input[type="text"],
+  .sec5__contactForm form input[type="email"],
+  .sec5__contactForm form textarea {
+    display: block;
+    margin: 0 50px 0 50px;
+    font-size: 0.8rem;
+    width: 80%;
+  }
+  label {
+    margin: 0 50px 0 50px;
+  }
+}
+@media screen and (max-width: 414px) {
+  #sec_what_do {
+    height: 160vh;
+  }
+  .s3__grid {
+    height: 205vh;
+  }
+  .s4__web {
+    height: 170vh;
+  }
+  .s1__flex {
+    margin-bottom: 650px;
+  }
+
+  .s3__grid {
+    height: 220vh;
+    width: 100%;
+  }
+  .s4__web {
+    height: 160vh;
+  }
+  .what__do_cards {
+    flex-direction: column;
+  }
 }

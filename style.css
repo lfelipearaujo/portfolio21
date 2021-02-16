@@ -532,6 +532,17 @@ section.sec5__contact {
   margin: 10px 0;
   font-weight: lighter;
 }
+input[type="submit"] {
+  color: white;
+  background: var(--mainPink);
+  padding: 1rem;
+  border: 2px solid transparent;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 2rem;
+  border-radius: var(--borderR);
+  cursor: pointer;
+}
 .sec5__contactForm textarea {
   width: 100%;
   display: inline-block;

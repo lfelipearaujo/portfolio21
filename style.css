@@ -498,16 +498,7 @@ section.sec5__contact {
   z-index: 2;
   display: inline-block;
 }
-/*
-.sec5__illustraBottom {
-  width: 100%;
-  height: 400px;
-  background-image: url(./svg_bottomPage2.2.png);
-  background-size: cover;
-  background-repeat: no-repeat;
-  z-index: 2;
-  display: inline-block;
-} */
+
 .sec5__contactForm {
   width: 400px;
   z-index: 1;
@@ -585,11 +576,11 @@ section.sec5__contact {
   width: 100%;
   height: 100vh;
   background: var(--beige);
+  opacity: 0.9656;
   display: flex;
   justify-content: center;
   align-items: flex-start;
   z-index: 1;
-  opacity: 1;
   clip-path: circle(50px at 100% -10%);
   -webkit-clip-path: circle(50px at 100% -10%);
 }
@@ -616,6 +607,14 @@ section.sec5__contact {
 
 body.hide {
   overflow: hidden;
+}
+nav.nav__mobile-nav ul {
+  list-style-type: none;
+  margin: 50px;
+}
+nav.nav__mobile-nav ul li {
+  padding: 10px;
+  text-align: center;
 }
 
 /* ! MEdia querys  */
@@ -664,10 +663,10 @@ body.hide {
     height: 100vh;
   }
   .s3__grid {
-    height: 85vh;
+    height: 150vh;
   }
   .s4__web {
-    height: 60vh;
+    height: 120vh;
   }
   .gallery {
     grid-gap: 2rem;
@@ -710,8 +709,7 @@ body.hide {
     flex-wrap: nowrap;
     margin-bottom: 55px;
   }
-  .svg__kanban {
-  }
+
   .about__about-me p {
     padding: 5px 0 0 0;
   }

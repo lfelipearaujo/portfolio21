@@ -545,7 +545,7 @@ input[type="submit"] {
   font-size: 2rem;
   border-radius: var(--borderR);
   cursor: pointer;
-  margin-top: 50px;
+  margin: 50px 0;
   width: 165px;
 
   align-self: center;

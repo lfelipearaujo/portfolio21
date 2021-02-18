@@ -521,8 +521,11 @@ section.sec5__contact {
 }
 .sec5__contactForm form {
   position: relative;
-  height: 500px;
+  height: 600px;
   width: 400px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
 }
 .sec5__contactForm form input[type="text"],
 .sec5__contactForm form input[type="email"] {
@@ -542,6 +545,10 @@ input[type="submit"] {
   font-size: 2rem;
   border-radius: var(--borderR);
   cursor: pointer;
+  margin-top: 50px;
+  width: 165px;
+
+  align-self: center;
 }
 .sec5__contactForm textarea {
   width: 100%;

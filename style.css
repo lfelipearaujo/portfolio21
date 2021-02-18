@@ -521,7 +521,7 @@ section.sec5__contact {
 }
 .sec5__contactForm form {
   position: relative;
-  height: 600px;
+  height: 700px;
   width: 400px;
   display: flex;
   flex-direction: column;
@@ -545,9 +545,8 @@ input[type="submit"] {
   font-size: 2rem;
   border-radius: var(--borderR);
   cursor: pointer;
-  margin: 50px 0;
+  margin: 50px;
   width: 165px;
-
   align-self: center;
 }
 .sec5__contactForm textarea {

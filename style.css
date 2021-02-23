@@ -818,17 +818,44 @@ nav.nav__mobile-nav ul li {
   }
 }
 @media screen and (max-width: 414px) {
+  .sec5__contactForm {
+    width: 360px;
+  }
+  .gallery {
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  }
+  .grid_card {
+    min-width: 200px;
+    min-height: 300px;
+  }
+  .about__about-me_line h2,
+  .what__do h2,
+  .s4__web h2:first-of-type,
+  .s3__grid .s3__grid1 h2:first-of-type {
+    font-size: 1.4rem;
+  }
+  .about__about-me_desc p,
+  .s4__web p:first-of-type,
+  .s3__grid p:first-of-type {
+    font-size: 1.1rem;
+  }
+  .what__do {
+    padding-left: 71px;
+  }
+  .what__do_desc p {
+    padding-left: 71px;
+  }
   #sec_what_do {
-    height: 160vh;
+    height: 120vh;
   }
   .s3__grid {
     height: 205vh;
   }
   .s4__web {
-    height: 170vh;
+    height: 180vh;
   }
   .s1__flex {
-    margin-bottom: 650px;
+    margin-bottom: 350px;
   }
 
   .s3__grid {
@@ -836,9 +863,23 @@ nav.nav__mobile-nav ul li {
     width: 100%;
   }
   .s4__web {
-    height: 160vh;
+    height: 170vh;
   }
   .what__do_cards {
-    flex-direction: column;
+    flex: 0;
+  }
+}
+@media screen and (max-width: 375px) {
+  .about__about-me_line h2,
+  .what__do h2,
+  .s4__web h2:first-of-type,
+  .s3__grid .s3__grid1 h2:first-of-type {
+    font-size: 1.1rem;
+  }
+  .about__about-me_desc p,
+  .what__do_desc p,
+  .s4__web p:first-of-type,
+  .s3__grid p:first-of-type {
+    font-size: 1rem;
   }
 }

@@ -883,19 +883,22 @@ nav.nav__mobile-nav ul li {
     font-size: 1rem;
   }
   .s1__flex {
-    margin-bottom: 420px;
+    margin-bottom: 650px;
   }
   #sec_what_do {
-    height: 120vh;
+    height: 200vh;
   }
   .what__do {
     margin-bottom: 0;
   }
 
   .s3__grid {
-    height: 260vh;
+    height: 450vh;
   }
   .s4__web {
-    height: 210vh;
+    height: 350vh;
+  }
+  section.sec5__contact {
+    height: 120vh;
   }
 }

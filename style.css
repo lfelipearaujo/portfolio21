@@ -735,7 +735,11 @@ a.card__response {
   .s1__flex {
     flex-direction: column;
     flex-wrap: nowrap;
+<<<<<<< HEAD
     margin-bottom: 500px;
+=======
+    margin-bottom: 55px;
+>>>>>>> 066628bec501f5cb5d5a597be526be8236e07ddf
   }
   .about__about-me p {
     padding: 5px 0 0 0;
@@ -761,6 +765,7 @@ a.card__response {
     display: none;
   }
   div.nav__mobile {
+    
     display: flex;
     justify-content: flex-end;
     margin: 15px;

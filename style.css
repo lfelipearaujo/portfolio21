@@ -729,7 +729,6 @@ a.card__response {
     flex-direction: column;
     flex-wrap: nowrap;
     margin-bottom: 55px;
-
   }
 
   .about__about-me p {
@@ -877,7 +876,6 @@ a.card__response {
   a.card__response {
     pointer-events: all;
   }
-
 }
 @media screen and (max-width: 375px) {
   .about__about-me_line h2,

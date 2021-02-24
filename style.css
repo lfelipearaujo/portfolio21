@@ -882,4 +882,20 @@ nav.nav__mobile-nav ul li {
   .s3__grid p:first-of-type {
     font-size: 1rem;
   }
+  .s1__flex {
+    margin-bottom: 420px;
+  }
+  #sec_what_do {
+    height: 120vh;
+  }
+  .what__do {
+    margin-bottom: 0;
+  }
+
+  .s3__grid {
+    height: 260vh;
+  }
+  .s4__web {
+    height: 210vh;
+  }
 }

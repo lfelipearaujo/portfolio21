@@ -1,0 +1,12 @@
+User-agent: Googlebot
+Disallow:
+sitemap: https://lfelipearaujo.github.io/portfolio21/sitemap.xml
+
+
+User-agent: Bingbot
+Disallow:
+sitemap: https://lfelipearaujo.github.io/portfolio21/sitemap.xml
+
+User-agent: *
+Disallow:
+sitemap: https://lfelipearaujo.github.io/portfolio21/sitemap.xml

@@ -711,6 +711,43 @@ a.card__response {
     padding: 0px;
   }
 }
+@media screen and (max-width: 960px) {
+  .s1__flex {
+    height: 65vh;
+    margin-top: 150px;
+  }
+  section.s2__flex {
+    height: 120vh;
+    margin-top: 120px;
+  }
+  .s3__grid {
+    height: 260vh;
+  }
+  .s4__web {
+    height: 210vh;
+  }
+  section.sec5__contact {
+    height: 150vh;
+  }
+}
+@media screen and (max-width: 800px) {
+  .s1__flex {
+    margin-top: 200px;
+  }
+  section.s2__flex {
+    height: 150vh;
+    margin-top: 150px;
+  }
+  .s3__grid {
+    height: 500vh;
+  }
+  .s4__web {
+    height: 380vh;
+  }
+  section.sec5__contact {
+    height: 150vh;
+  }
+}
 
 @media screen and (max-width: 768px) {
   .flip-card:hover .flip-card-inner {
@@ -736,6 +773,8 @@ a.card__response {
     flex-direction: column;
     flex-wrap: nowrap;
     margin-bottom: 500px;
+
+    margin-top: 0;
   }
   .about__about-me p {
     padding: 5px 0 0 0;
